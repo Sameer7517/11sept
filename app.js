@@ -1,2 +1,5 @@
-console.log("Stariting github");
-console.log("HEllo my friends ");
+let api = function () {
+    fetch("https/:google.com");
+
+}
+console.log(api);
